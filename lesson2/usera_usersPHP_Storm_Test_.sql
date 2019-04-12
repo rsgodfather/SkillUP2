@@ -1,0 +1,3 @@
+INSERT INTO usera.`usersPHP-Storm(Test)` (id, last_name, birthday_date, password, email, first_name) VALUES (1, 'test', '2019-04-09', '12345', 'bfg@gmail.com', 'tester');
+INSERT INTO usera.`usersPHP-Storm(Test)` (id, last_name, birthday_date, password, email, first_name) VALUES (2, 'Petrov', '2019-04-12', '12345', 'test@test.com', 'Ivan');
+INSERT INTO usera.`usersPHP-Storm(Test)` (id, last_name, birthday_date, password, email, first_name) VALUES (9, 'Krulyk', '1999-11-11', 'password', 'andriikrul@mail.com', 'Andrii');
